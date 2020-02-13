@@ -1,0 +1,23 @@
+<html>
+  {% include head.html %}
+  <body>
+    <main id="intro">
+      <div class="content">
+        <div class="content__bg">
+          <div class="content__cta">
+            <img  class="content__cta__me" src="./img/me.jpg" alt="">
+            <h1 class="content__cta__title">{{page.author.name}}</h1>
+            <hr>
+            <p class="content__cta__about">{{page.description}}</p>
+            <hr>
+            <ul class="content__cta__social">
+              <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+              <li><a href="#"><i class="fab fa-github-alt"></i></a></li>
+              <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
