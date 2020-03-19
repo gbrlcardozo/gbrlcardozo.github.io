@@ -1,7 +1,7 @@
 ---
 title: gbrlcardozo
 layout: default
-description: Hi! I'm Gabriela :)<br>I like to learn about anything. I chose technology as a way of working because every day is a new day.
+description: :).
 url: 'https://gbrlcardozo.github.io'
 author:
   name               : 'Gabriela Cardozo'
